@@ -1,7 +1,7 @@
 # Sisa Program
 Eina d'ajuda per a la matèria d'Introducció als Computadors (IC).
 
-Contacta'm a:
+Contacte:
 * Email: joan.caballero@estudiantat.upc.edu
 * Discord: JKnight11#3724
 
