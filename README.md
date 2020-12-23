@@ -18,6 +18,6 @@ Dirigida als estudiants de 1r any de la FIB, Universitat Politècnica de Catalun
 * Conversor de nombre hexadecimal a Format d'Instruccions SISA de 16 bits.
 
      **Input:** `--hexa 1854`. **Output:** `CMPLTU R2 R4 R1`.
-* Conversor de Mnemotècnic a paraula de control **(Treballant actualment)**.
+* Conversor de Mnemotècnic a paraula de control.
 
      **Exemple d'Input:** `BNZ R7 -12`, `OR - R2 R5`, etc.
