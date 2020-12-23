@@ -2,8 +2,7 @@
 Eina d'ajuda per a la matèria d'Introducció als Computadors (IC).
 
 Contacte:
-* Email: joan.caballero@estudiantat.upc.edu
-* Discord: JKnight11#3724
+* Email de contacte: joan.caballero@estudiantat.upc.edu
 
 # Instal·lació i Execució del programa
 1. Baixa el fitxer __sisaprogram__ i guarda'l en qualsevol carpeta.
