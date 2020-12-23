@@ -20,4 +20,4 @@ Dirigida als estudiants de 1r any de la FIB, Universitat Politècnica de Catalun
      **Input:** `--hexa 1854`. **Output:** `CMPLTU R2 R4 R1`.
 * Conversor de Mnemotècnic a paraula de control.
 
-     **Exemple d'Input:** `BNZ R7 -12`, `OR - R2 R5`, etc.
+     **Exemple d'Input:** `BNZ R7 -12`, `OR R0 R2 R5`, etc.
