@@ -3,7 +3,7 @@ Eina d'ajuda per a la matèria d'Introducció als Computadors (IC).
 Dirigida als estudiants de 1r any de la FIB, Universitat Politècnica de Catalunya.
 
 Contacte:
-* Email de contacte: joan.caballero@estudiantat.upc.edu
+* Email: joan.caballero@estudiantat.upc.edu
 
 # Instal·lació i Execució del programa
 1. Baixa el fitxer __sisaprogram__ i guarda'l en qualsevol carpeta.
