@@ -19,5 +19,5 @@ Contacte:
      
 * Conversor d'Instrucció SISA a Paraula de Control del SISC Harvard unicicle.
 
-     **Exemple d'Input:** `BNZ R7 -12`, `OR R0 R2 R5`, etc.
+     **Exemple d'Input:** `-c BNZ R7 -12`, `-c OR R0 R2 R5`, etc.
      ![](Images/paraula_control_v1.png)
