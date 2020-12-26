@@ -13,7 +13,7 @@ Contacte:
 # Característiques
 * Conversor de nombre hexadecimal a Llenguatge ensamblador SISA.
 
-     **Input:** `--hexa 1854`. **Output:** `CMPLTU R2 R4 R1`.
+     **Input:** `--hexa 1854`. **Output:** `CMPLTU R2, R4, R1`.
      
      ![](Images/hexa_to_sisa.png)
      
