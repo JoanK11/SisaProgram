@@ -11,9 +11,12 @@ Contacte:
 3. Escriu `./sisaprogram` per executar el programa.
 
 # Característiques
-* Conversor de nombre hexadecimal a Format d'Instruccions SISA de 16 bits.
+* Conversor de nombre hexadecimal a Llenguatge ensamblador SISA.
 
      **Input:** `--hexa 1854`. **Output:** `CMPLTU R2 R4 R1`.
-* Conversor de Mnemotècnic a paraula de control.
+     ![](Images/hexa_to_sisa.png)
+     
+* Conversor d'Instrucció SISA a Paraula de Control del SISC Harvard unicicle.
 
      **Exemple d'Input:** `BNZ R7 -12`, `OR R0 R2 R5`, etc.
+     ![](Images/paraula_control_v1.png)
