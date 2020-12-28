@@ -17,7 +17,12 @@ Contacte:
      
      ![](Images/hexa_to_sisa.png)
      
-* Conversor d'Instrucció SISA a Paraula de Control del SISC Harvard unicicle.
+* Conversor d'Instrucció SISA a Paraula de Control del SISC Harvard unicicle (Temes 8-11).
 
      **Exemple d'Input:** `-c1 BNZ R7 -12`, `-c1 ST 0 R4 R0`, etc.
      ![](Images/paraula_control_v1.png)
+
+* Conversor d'Instrucció IR a Paraula de Control del SISC Harvard unicicle (Temes 12-14) [Treballant Actualment].
+
+     **Exemple d'Input:** `-c2 JALR R4 R5`, `-c2 LDB R1 1 R6`, etc.
+     ![](Images/paraula_control_v2.png)
