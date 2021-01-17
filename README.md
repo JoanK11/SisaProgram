@@ -1,4 +1,6 @@
 # Sisa Program
+![HitCount](http://hits.dwyl.com/JoanKnight11/SisaProgram.svg)
+
 Eina d'ajuda per a la matèria d'Introducció als Computadors (IC).
 Dirigida als estudiants de 1r any de la FIB, Universitat Politècnica de Catalunya.
 
