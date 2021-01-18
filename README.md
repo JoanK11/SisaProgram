@@ -17,7 +17,14 @@ Contacte:
 
      **Input:** `-h 1854`. **Output:** `CMPLTU R2, R4, R1`.
      
-     ![](Images/hexa_to_sisa.png)
+     
+| Llenguatge màquina SISA | Llenguatge ensamblador SISA |
+|-------------------------|-----------------------------|
+|         0x477D          | ST -3(R3), R5               |
+|         0xA1FC          | OUT 252, R0                 |
+|         0x99FF          | MOVHI R4, -1                |
+|         0x86FB          | BZ R3, -5                   |
+     
      
 * Conversor d'Instrucció SISA a Paraula de Control del SISC Harvard unicicle (Temes 8-11).
 
