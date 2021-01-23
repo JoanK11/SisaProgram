@@ -32,3 +32,6 @@ Contacte:
      **Exemple d'Input:** `-c2 JALR R4 R5`, `-c2 LDB R1 1 R6`, etc.
      
      ![](Images/paraula_control_v2.png)
+     
+* Canvis d'estat del computador SISC Von Neumann.
+    ** Exemple d'Input:** `-pc 8A6F ST 9 R2 5`, `-pc LDB R7 -63 R5`, etc.
