@@ -35,4 +35,4 @@ Contacte:
      
 * Canvis d'estat del computador SISC Von Neumann.
     
-     **Exemple d'Input:** `-pc 8A6F ST 9 R2 5`, `-pc LDB R7 -63 R5`, etc.
+     **Exemple d'Input:** `-pc 8A6F ST 9 R2 5`, `-pc F0F8 LDB R7 -63 R5`, etc.
