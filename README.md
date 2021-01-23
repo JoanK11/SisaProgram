@@ -33,7 +33,7 @@ Contacte:
      
      ![](Images/paraula_control_v2.png)
      
-* Canvis d'estat del computador SISC Von Neumann.
+* Canvis d'estat del computador SISC Von Neumann. Instruccions disponibles: `MOVI/MOVHI`, `BZ/BNZ`, `LD/LDB`, `ST/STB`, `JALR`.
 
      **Sintaxi d'Input:** `-pc [Valor PC actual] [Instrucció]` (totes les constants en decimal). 
     
