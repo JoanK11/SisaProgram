@@ -38,3 +38,5 @@ Contacte:
      **Sintaxi d'Input:** `-pc [Valor PC actual] [Instrucció]` (totes les constants en decimal). 
     
      **Exemple d'Input:** `-pc 8A6F ST 9 R2 5`, `-pc F0F8 LDB R7 -63 R5`, etc.
+     
+     ![](Images/pc.png)
