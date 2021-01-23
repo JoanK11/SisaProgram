@@ -34,5 +34,7 @@ Contacte:
      ![](Images/paraula_control_v2.png)
      
 * Canvis d'estat del computador SISC Von Neumann.
+
+     **Sintaxi d'Input:** `-pc [Valor PC actual] [Instrucció]` (totes les constants en decimal). 
     
      **Exemple d'Input:** `-pc 8A6F ST 9 R2 5`, `-pc F0F8 LDB R7 -63 R5`, etc.
