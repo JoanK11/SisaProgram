@@ -41,4 +41,4 @@ Contacte:
 * Solucionador Karnaugh Online: https://www.charlie-coleman.com/experiments/kmap/
 * Creador Graf d'Estats: https://www.cs.unc.edu/~otternes/comp455/fsm_designer/
 * Conversor de bases: https://onlinetoolz.net/dechex
-* SHA/SHL: https://onlinetoolz.net/bitshift
+* Calculadora SHA/SHL: https://onlinetoolz.net/bitshift
