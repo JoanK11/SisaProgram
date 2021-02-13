@@ -36,3 +36,9 @@ Contacte:
      **Exemple d'Input:** `-pc 8A6F ST 9 R2 R5`, `-pc F0F8 LDB R7 -63 R5`, etc.
      
      ![](Images/pc.png)
+     
+# Altres enllaços d'interès
+* Solucionador Karnaugh Online: https://www.charlie-coleman.com/experiments/kmap/
+* Creador Graf d'Estats: https://www.cs.unc.edu/~otternes/comp455/fsm_designer/
+* Conversor de bases: https://onlinetoolz.net/dechex
+* SHA/SHL: https://onlinetoolz.net/bitshift
