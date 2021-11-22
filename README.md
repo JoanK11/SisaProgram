@@ -8,8 +8,8 @@ Contacte:
 # Instal·lació i Execució del programa
 1. Baixa el fitxer __sisaprogram__ i guarda'l en qualsevol directori.
 2. Amb una terminal o compilador dirigeix-te a la ubicació de l'arxiu (les comandes `ls` i `cd` et poden ajudar).
-3. Escriu `./sisaprogram` per executar el programa.
-(4.) Si us surt error de permisos feu `chmod 777 ./sisaprogram` i torneu a executar `./sisaprogram`.
+3. Escriu `./sisaprogram` per executar el programa.<br>
+4. Si us surt error de permisos feu `chmod 777 ./sisaprogram` i torneu a executar `./sisaprogram`.
 
 # Codi Font del Programa
 El codi font del programa el trobareu a l'arxiu [sisaprogram.cc](sisaprogram.cc) penjat en aquest mateix repositori.<br>
