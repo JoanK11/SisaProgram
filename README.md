@@ -11,7 +11,7 @@ Contacte:
 3. Escriu `./sisaprogram` per executar el programa.
 
 # Codi Font del Programa
-El codi font del programa el trobareu a l'arxiu sisaprogram.cc penjat en aquest mateix repositori.
+El codi font del programa el trobareu a l'arxiu [sisaprogram.cc](sisaprogram.cc) penjat en aquest mateix repositori.
 Si feu qualsevol modificació i decidiu publicar el codi en algun altre lloc agrairia que donéssiu crèdit al repositori original del programa. Moltes gràcies. 
 
 # Característiques
