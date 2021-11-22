@@ -1,4 +1,5 @@
 # Sisa Program
+- ![Github Stars](https://githubbadges.com/star.svg?user=JoanK11&repo=SisaProgram&style=default&color=fff&background=000)
 Eina d'ajuda per a la matèria d'Introducció als Computadors (IC).
 Dirigida als estudiants de 1r any de la FIB, Universitat Politècnica de Catalunya.
 
