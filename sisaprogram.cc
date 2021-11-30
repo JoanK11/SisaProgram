@@ -55,6 +55,7 @@ int charhexa_dec(char n) {
 // Pre: Caràcter en hexadecimal entre [0, F]
 // Post: Nombre en decimal entre [0, 15]
     if (n >= '0' and n <= '9')  return int(n - '0');
+    else if (n >= 'a' and n <= 'z') return int(15 - 'f' + n);
     else  return int(15 - 'F' + n);
 }
 
